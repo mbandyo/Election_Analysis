@@ -9,7 +9,7 @@ This project is designed to conduct election audit slecifically for an election 
 
 ## Resources 
 1. Data: election_results.csv (data file with records of ballot id, county and candidate selected on the ballot)
-2. Softwate: Python 3.6.1; Visual Studio Code 1.70.0
+2. Softwate: Python 3.7.6; Visual Studio Code 1.70.0
 
 ## Summary
 Conclusions of analysis of election data:
