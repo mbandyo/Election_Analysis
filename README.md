@@ -12,21 +12,19 @@ This project is designed to conduct election audit slecifically for an election 
 2. Softwate: Python 3.7.6; Visual Studio Code 1.70.0
 
 ## Summary
-Conclusions of analysis of election data:
+#Conclusions of analysis of election data:
 1. Election Results: 
--------------------------
 Total Votes: 369,711
--------------------------
+
 The candidates were:
 Charles Casper Stockham
 Diana DeGette
 Raymon Anthony Doane
 
--------------------------
 Charles Casper Stockham received 23.0% of the votes with a total number of 85,213 votes.
 Diana DeGette received 73.8% of the votes with a total number of 272,892 votes.
 Raymon Anthony Doane received 3.1% of the votes with a total number of 11,606 votes.
--------------------------
+
 Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
