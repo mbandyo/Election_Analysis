@@ -12,19 +12,35 @@ This project is designed to conduct election audit slecifically for an election 
 2. Softwate: Python 3.7.6; Visual Studio Code 1.70.0
 
 ## Summary
-### Conclusions of analysis of election data:
-###1. Election Results: 
-Total Votes: 369,711
+The analysis of the election data show that:\
+-There were 369,711 votes cast in the election\
+-The candidates were:\
+&emsp;-Charles Casper Stockham\
+&emsp;-Diana DeGette\
+&emsp;-Raymon Anthony Doane\
+-The candidate results were:\
+&emsp;-Charles Casper Stockham received 23.0% of the votes with a total number of 85,213 votes.\
+&emsp;-Diana DeGette received 73.8% of the votes with a total number of 272,892 votes.\
+&emsp;-Raymon Anthony Doane received 3.1% of the votes with a total number of 11,606 votes.\
+-The winner of the election was:\
+&emsp;-Diana DeGette who received 73.8% of the votes and 272,892 number of votes
 
-The candidates were:
-Charles Casper Stockham, 
-Diana DeGette, 
-Raymon Anthony Doane
+## Challenge Overview
+The election commission has requested some additional data to complete the audit:\
+* The voter turnout for each county
+* The percentage of votes from each county out of the total count
+* The county with the highest turnout
 
-Charles Casper Stockham received 23.0% of the votes with a total number of 85,213 votes.
-Diana DeGette received 73.8% of the votes with a total number of 272,892 votes.
-Raymon Anthony Doane received 3.1% of the votes with a total number of 11,606 votes.
+## Challenge Summary
+-The Turnout analysis provides the following information:\
+-The voter turnout:\
+&emsp;-Jefferson: 38,855\
+&emsp;-Denver: 306,055\
+&emsp;-Arapahoe: 24,801
 
-Winner: Diana DeGette.
-Winning Vote Count: 272,892.
-Winning Percentage: 73.8%.
+-The percentage of votes from each county:\
+&emsp;-Jefferson: 10.5%\
+&emsp;-Denver: 82.8%\
+&emsp;-Arapahoe: 6.7%
+
+-The county with highest turnout: &ensp; Denver
